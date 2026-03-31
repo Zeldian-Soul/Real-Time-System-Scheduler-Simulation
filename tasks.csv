@@ -1,0 +1,9 @@
+id,name,type,at,bt,deadline,io_req,io_burst
+1,ObstacleDetect1,0,0,80,150,40,30
+2,SpeedControl1,0,10,60,120,30,25
+3,NavUpdate1,1,20,100,200,50,40
+4,DataLog1,2,30,150,500,0,0
+5,ObstacleDetect2,0,100,80,150,40,30
+6,SpeedControl2,0,120,60,120,30,25
+7,NavUpdate2,1,140,100,200,50,40
+8,DataLog2,2,160,150,500,0,0
